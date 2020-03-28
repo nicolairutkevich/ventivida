@@ -4,10 +4,7 @@ VENTIVIDA COMPRESSOR articulado SUBSTITUTO imediato DE RESPIRADOR para a pandemi
 # Projeto em desenvolvimento
 
 
-# Canais de comunicação com força tarefas 
-Modelo open-source de respirador alternativo visando auxiliar o sistema de saúde em uma possível sobrecarga devido à COVID-19.
-
-* [Iniciativa Respirador Hacker](https://respiradorhacker.github.io/)
+# Canal de comunicação 
 * [Comunicação em nosso canal do Slack](https://join.slack.com/t/respiradorhacker/shared_invite/zt-cz8b6iv8-nPnewxJh1r5T3ZdAZIX_PQ)
 
 # Author  : Nicolai Rutkevich
