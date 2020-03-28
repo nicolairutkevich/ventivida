@@ -1,17 +1,16 @@
-# ventivida
+# VENTIVIDA
 VENTIVIDA COMPRESSOR articulado SUBSTITUTO imediato DE RESPIRADOR para a pandemia de covid-19
 
 # Projeto em desenvolvimento
 
-# Força tarefa 
-Em 16 de março de 2020, o Laboratório Hacker de Campinas (LHC) iniciou um esforço colaborativo e entre hackerspaces para mobilizar um grupo de voluntários visando a prototipagem e montagem de um respirador hacker para auxiliar em um possível gargalo das redes de saúde visto a rápida propagação do coronavírus como ocorreu em alguns países da Europa.
 
-Tal movimento culminou na criação de um grupo de trabalho colaborativo com integrantes dentro e fora do Brasil e que estão empenhados em apresentar protótipos de fácil produção, baixo custo e acessíveis a todo o país nos próximos dias.
+# Canais de comunicação com força tarefas 
+Modelo open-source de respirador alternativo visando auxiliar o sistema de saúde em uma possível sobrecarga devido à COVID-19.
 
 * [Github:](https://respiradorhacker.github.io/)
 * [Slack:](https://join.slack.com/t/respiradorhacker/shared_invite/zt-cz8b6iv8-nPnewxJh1r5T3ZdAZIX_PQ)
 
-# Author : Nicolai Rutkevich
+# Author  : Nicolai Rutkevich
 
 ![Workflow](/figures/101.PNG)
 ![Workflow](/figures/102.PNG)
