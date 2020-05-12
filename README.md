@@ -5,7 +5,7 @@ VENTIVIDA COMPRESSOR articulado SUBSTITUTO imediato DE RESPIRADOR para a pandemi
 
 
 # Canal de comunicação 
-* [Slack](https://join.slack.com/t/respiradorhacker/shared_invite/zt-cz8b6iv8-nPnewxJh1r5T3ZdAZIX_PQ)
+* [Slack](https://join.slack.com/t/respiradorhacker/shared_invite/zt-du8w30c2-CEpr5F5nzLHgQIW_KxFk3A)
 
 # Author  : Nicolai Rutkevich
 
